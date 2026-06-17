@@ -56,7 +56,7 @@ Email Notification
 #### Code
 https://github.com/hycst/CST8919-Lab2/blob/main/app.py
 
-
+https://github.com/hycst/CST8919-Lab2/blob/main/test-app.http
 ##### KQL Query
 
 ```kusto
